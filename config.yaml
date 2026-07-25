@@ -1,0 +1,31 @@
+paths:
+  input_pdf: "./input/book.pdf"
+  workdir: "./workdir"
+  images_dir: "./workdir/images"
+  output_dir: "./output"
+  state_db: "./workdir/state.db"
+
+hardware:
+  vram_gb: 6                      # Default conservative. Update to 16 if confirmed.
+  vram_confirmed: false
+
+models:
+  ocr: "deepseek-ocr-gguf-q4_k_m"           # Branch A default
+  draft_translation: "ai4bharat/indictrans2-en-indic-1B"
+  reflect_refine: "qwen2.5:7b-instruct-q4_K_M"   # Branch A default, Ollama tag
+
+translation:
+  source_lang: "eng_Latn"         
+  target_lang: "mar_Deva"
+  summary_update_every_n_paragraphs: 12
+  neighbor_window: 2
+  term_handling: "hybrid"         # transliterate | keep_english | hybrid
+  register: "general"             # literary | general | academic | religious
+
+output:
+  format: "marathi_only"          # marathi_only | bilingual | both
+  font: "Nirmala UI"
+
+qa:
+  back_translation_sample_pct: 5
+  flag_confidence_threshold: 0.85

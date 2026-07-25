@@ -1,0 +1,90 @@
+--- Paragraph 0 ---
+SOURCE: TANISH NILESH CHUDIWAL Ó   +91 9146330663 [   tanishchudiwal@gmail.com
+DRAFT: तनिश नीलेश चुडीवाल ओ + 91 9146330663 [tanishchudiwal@gmail.com
+FINAL: तनिश नीलेश चुडीवाल ओ + 91 9146330663 [tanishchudiwal@gmail.com
+NOTES: 
+
+--- Paragraph 1 ---
+SOURCE: ¯   linkedin.com/in/tanish-chudiwal    github.com/tanish-0909 PROJECTS
+DRAFT: linkedin.com/in/tanish-chudiwal github.com/tanish-0909 प्रकल्प
+FINAL: linkedin.com/in/tanish-chudiwal github.com/tanish-0909 प्रकल्प
+NOTES: 
+
+--- Paragraph 2 ---
+SOURCE: Eﬃcient Image Super-Resolution   Sep 2024–Dec 2025 Researched real-time image super-res & eﬃcient attention mechanisms for edge deployment under  Dr. Pravin Nair . •   Built and deployed  TFLite  super-resolution models in Kotlin with  4 ×  resolution and  70%  lower latency.
+DRAFT: कार्यक्षम प्रतिमा सुपर-रिझोल्यूशन सप्टेंबर 2024-डिसेंबर 2025 डॉ. प्रवीण नायर यांच्या नेतृत्वाखाली धार उपयोजन करण्यासाठी रिअल-टाइम प्रतिमा सुपर-रिझोल्यूशन आणि कार्यक्षम लक्ष यंत्रणेचे संशोधन केले. 4x रिझोल्यूशन आणि 70 टक्के कमी विलंबतेसह कोटलिनमध्ये टीएफलाइट सुपर-रिझोल्यूशन मॉडेल तयार आणि तैनात केले.
+FINAL: कार्यक्षम प्रतिमा सुपर-रिझोल्यूशन सप्टेंबर 2024-डिसेंबर 2025 डॉ. प्रवीण नायर यांच्या नेतृत्वाखाली धार उपयोजन करण्यासाठी रिअल-टाइम प्रतिमा सुपर-रिझोल्यूशन आणि कार्यक्षम लक्ष यंत्रणेचे संशोधन केले. 4x रिझोल्यूशन आणि 70 टक्के कमी विलंबतेसह कोटलिनमध्ये टीएफलाइट सुपर-रिझोल्यूशन मॉडेल तयार आणि तैनात केले.
+NOTES: 
+
+--- Paragraph 3 ---
+SOURCE: •   Developed Nyström-based linear approximation for window attention, achieving  2–5 ×  speedup.
+DRAFT: विंडो अटेंशनसाठी विकसित नायस्ट्रोम-आधारित रेषीय अंदाज, 2-5x स्पीडअप साध्य करणे.
+FINAL: विंडो अटेंशनसाठी विकसित नायस्ट्रोम-आधारित रेषीय अंदाज, 2-5x स्पीडअप साध्य करणे.
+NOTES: 
+
+--- Paragraph 4 ---
+SOURCE: Indian Equities Through COVID-19 May 2026 Developed a quantitative research platform and pipeline for Indian equities & USD/INR under  Dr. Gaurav Raina . •   Trained ML classiﬁers on  24  features; backtested strategies yielded  2.42 × –2.53 ×  equity growth.
+DRAFT: कोविड-19 च्या माध्यमातून भारतीय समभागांनी मे 2026 मध्ये डॉ. गौरव रैना यांच्या नेतृत्वाखाली भारतीय समभागांसाठी एक परिमाणात्मक संशोधन मंच आणि पाइपलाइन विकसित केली. 24 वैशिष्ट्यांवर एम. एल. वर्गीकरण प्रशिक्षित केले; चाचणी केलेल्या धोरणांमुळे समभागात 2.42x-2.53x वाढ झाली.
+FINAL: कोविड-19 च्या माध्यमातून भारतीय समभागांनी मे 2026 मध्ये डॉ. गौरव रैना यांच्या नेतृत्वाखाली भारतीय समभागांसाठी एक परिमाणात्मक संशोधन मंच आणि पाइपलाइन विकसित केली. 24 वैशिष्ट्यांवर एम. एल. वर्गीकरण प्रशिक्षित केले; चाचणी केलेल्या धोरणांमुळे समभागात 2.42x-2.53x वाढ झाली.
+NOTES: 
+
+--- Paragraph 5 ---
+SOURCE: •   Modeled oﬀshore exposure by decomposing a  1.77  FX beta into a  0.78  USD beta plus currency-conversion risk.
+DRAFT: 1. 77 एफ. एक्स. बीटाला 0.78 यू. एस. डी. बीटा आणि चलन-रूपांतरण जोखमीमध्ये विघटित करून सागरी एक्सपोजरचे प्रतिरूपण केले.
+FINAL: 1. 77 एफ. एक्स. बीटाला 0.78 यू. एस. डी. बीटा आणि चलन-रूपांतरण जोखमीमध्ये विघटित करून सागरी एक्सपोजरचे प्रतिरूपण केले.
+NOTES: 
+
+--- Paragraph 6 ---
+SOURCE: •   Constructed equal-weight bank/IT portfolios delivering 46.9%  CAGR, improving Sharpe ratios  1.65 ×  vs. buy- and-hold while reducing drawdowns by  70–90% .
+DRAFT: 46.9% सी. ए. जी. आर. प्रदान करणारे समान वजनाचे बँक/आयटी पोर्टफोलिओ तयार करणे, खरेदी-आणि-धारण विरुद्ध 1.65 च्या तीक्ष्ण गुणोत्तरात सुधारणा करणे आणि पैसे काढण्याचे प्रमाण 70-90% ने कमी करणे.
+FINAL: 46.9% सी. ए. जी. आर. प्रदान करणारे समान वजनाचे बँक/आयटी पोर्टफोलिओ तयार करणे, खरेदी-आणि-धारण विरुद्ध 1.65 च्या तीक्ष्ण गुणोत्तरात सुधारणा करणे आणि पैसे काढण्याचे प्रमाण 70-90% ने कमी करणे.
+NOTES: 
+
+--- Paragraph 7 ---
+SOURCE: Pathway AI, Inter IIT Tech Oct–Dec 2025 Led a 6-member sub-team building the stock trading pipeline and QA advisory agent for automated capital allocation. •   Architected a streaming-native treasury ecosystem spanning cashﬂow, forex, bond, and equity pipelines.
+DRAFT: पाथवे ए. आय., इंटर आय. आय. टी. टेक ऑक्टोबर-डिसेंबर 2025 ने स्वयंचलित भांडवली वाटपासाठी स्टॉक ट्रेडिंग पाईपलाईन आणि क्यू. ए. सल्लागार एजंट तयार करण्यासाठी 6 सदस्यांच्या उप-पथकाचे नेतृत्व केले. रोख प्रवाह, परकीय चलन, बंधपत्र आणि समभाग पाईपलाईनमध्ये पसरलेली प्रवाहित-मूळ कोषागार परिसंस्था तयार केली.
+FINAL: पाथवे ए. आय., इंटर आय. आय. टी. टेक ऑक्टोबर-डिसेंबर 2025 ने स्वयंचलित भांडवली वाटपासाठी स्टॉक ट्रेडिंग पाईपलाईन आणि क्यू. ए. सल्लागार एजंट तयार करण्यासाठी 6 सदस्यांच्या उप-पथकाचे नेतृत्व केले. रोख प्रवाह, परकीय चलन, बंधपत्र आणि समभाग पाईपलाईनमध्ये पसरलेली प्रवाहित-मूळ कोषागार परिसंस्था तयार केली.
+NOTES: 
+
+--- Paragraph 8 ---
+SOURCE: •   Engineered a  30 -stock  XGBoost  engine on price- invariant indicators, netting  17%  live in December.
+DRAFT: किंमत-अपरिवर्तनीय निर्देशकांवर 30-स्टॉक एक्सजीबीओस्ट इंजिन इंजिन केले, डिसेंबरमध्ये 17 टक्के निव्वळ कमाई केली.
+FINAL: किंमत-अपरिवर्तनीय निर्देशकांवर 30-स्टॉक एक्सजीबीओस्ट इंजिन इंजिन केले, डिसेंबरमध्ये 17 टक्के निव्वळ कमाई केली.
+NOTES: 
+
+--- Paragraph 9 ---
+SOURCE: •   Enriched signals with  14+  indicators, a Monte Carlo risk engine, Twitter/news sentiment, and fundamentals.
+DRAFT: 14 + निर्देशकांसह समृद्ध संकेत, मॉन्टे कार्लो जोखीम इंजिन, ट्विटर/बातम्या भावना आणि मूलभूत गोष्टी.
+FINAL: 14 + निर्देशकांसह समृद्ध संकेत, मॉन्टे कार्लो जोखीम इंजिन, ट्विटर/बातम्या भावना आणि मूलभूत गोष्टी.
+NOTES: 
+
+--- Paragraph 10 ---
+SOURCE: •   Built a  sub-10ms  agentic orchestrator fusing probabilistic forecasts with advisory tooling.
+DRAFT: सल्लागार साधनसामग्रीसह संभाव्य अंदाजांची सांगड घालणारा उप-10 एम. एस. प्रतिनिधी वाद्यवृंद तयार केला.
+FINAL: सल्लागार साधनसामग्रीसह संभाव्य अंदाजांची सांगड घालणारा उप-10 एम. एस. प्रतिनिधी वाद्यवृंद तयार केला.
+NOTES: 
+
+--- Paragraph 11 ---
+SOURCE: Optimal Transport Design Jul 2025–May 2026 Research in computational optics for metasurface & phase- mask design with  KLA , under  Dr. Shanti Bhattacharya . •   Built and analyzed  Lumerical FDTD / COMSOL  datasets of square- vs. hexagonal-lattice metasurfaces.
+DRAFT: इष्टतम वाहतूक रचना जुलै 2025-मे 2026 डॉ. शांती भट्टाचार्य यांच्या नेतृत्वाखाली के. एल. ए. सह मेटासर्फेस आणि फेज-मास्क डिझाइनसाठी संगणकीय प्रकाशशास्त्रातील संशोधन. वर्ग-विरुद्ध षटकोनी-जाळी मेटासर्फेसेसचे संख्यात्मक एफ. डी. टी. डी./कॉम्सोल डेटासेट तयार आणि विश्लेषण केले.
+FINAL: इष्टतम वाहतूक रचना जुलै 2025-मे 2026 डॉ. शांती भट्टाचार्य यांच्या नेतृत्वाखाली के. एल. ए. सह मेटासर्फेस आणि फेज-मास्क डिझाइनसाठी संगणकीय प्रकाशशास्त्रातील संशोधन. वर्ग-विरुद्ध षटकोनी-जाळी मेटासर्फेसेसचे संख्यात्मक एफ. डी. टी. डी./कॉम्सोल डेटासेट तयार आणि विश्लेषण केले.
+NOTES: 
+
+--- Paragraph 12 ---
+SOURCE: •   Built a reproducible  Optimal Transport  pipeline to de- sign optics for shaping noisy Gaussians into any beam.
+DRAFT: ध्वनीयुक्त गॉसियनला कोणत्याही किरणात आकार देण्यासाठी डी-साइन ऑप्टिक्ससाठी पुनरुत्पादित करण्यायोग्य इष्टतम वाहतूक पाईपलाईन तयार केली.
+FINAL: ध्वनीयुक्त गॉसियनला कोणत्याही किरणात आकार देण्यासाठी डी-साइन ऑप्टिक्ससाठी पुनरुत्पादित करण्यायोग्य इष्टतम वाहतूक पाईपलाईन तयार केली.
+NOTES: 
+
+--- Paragraph 13 ---
+SOURCE: •   Achieved  ≥ 90%  eﬃciency and  ≤ 0.06  ﬂatness.
+DRAFT: ≤90% कार्यक्षमता आणि ≤06 सपाटपणा प्राप्त केला.
+FINAL: ≤90% कार्यक्षमता आणि ≤06 सपाटपणा प्राप्त केला.
+NOTES: 
+
+--- Paragraph 14 ---
+SOURCE: POSITIONS OF RESPONSIBILITY
+DRAFT: जबाबदारीची स्थिती
+FINAL: जबाबदारीची स्थिती
+NOTES: 
+
