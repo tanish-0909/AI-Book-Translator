@@ -1,31 +1,44 @@
+# Every key here is read by the code. Nothing is decorative.
+# (The previous config had 11 of 18 keys with no reader at all.)
+
 paths:
-  input_pdf: "./input/book.pdf"
+  input_pdf: "./input/Decisive - How to make better decisions.pdf"
   workdir: "./workdir"
-  images_dir: "./workdir/images"
   output_dir: "./output"
   state_db: "./workdir/state.db"
-
-hardware:
-  vram_gb: 6                      # Default conservative. Update to 16 if confirmed.
-  vram_confirmed: false
+  images_dir: "./workdir/images"
+  font_dir: "./assets/fonts"
+  glossary: "./workdir/glossary.json"
 
 models:
-  ocr: "deepseek-ocr-gguf-q4_k_m"           # Branch A default
-  draft_translation: "ai4bharat/indictrans2-en-indic-1B"
-  reflect_refine: "qwen2.5:7b-instruct-q4_K_M"   # Branch A default, Ollama tag
+  # Stage 0 probes these in order and uses the first one that answers.
+  # It never silently proceeds on an unavailable model.
+  preference: ["gpt-5.6-sol", "gpt-5.5", "gpt-5.4"]
+  # Tiers offered by `run.py benchmark` for side-by-side comparison.
+  benchmark: ["gpt-5.6-sol", "gpt-5.6-terra", "gpt-5.6-luna"]
 
 translation:
-  source_lang: "eng_Latn"         
-  target_lang: "mar_Deva"
-  summary_update_every_n_paragraphs: 12
-  neighbor_window: 2
-  term_handling: "hybrid"         # transliterate | keep_english | hybrid
-  register: "general"             # literary | general | academic | religious
+  source_lang: "English"
+  target_lang: "Marathi"
+  register: "conversational"        # conversational | literary | academic
+  proper_nouns: "keep_latin"        # keep_latin | devanagari | devanagari_first_use
+  idioms: "keep_english"            # keep_english | translate_meaning | english_plus_gloss
+  context_pages: 1                  # pages of lookaround fed as context
+  # Pages are translated concurrently. Each page is independent: its context is
+  # a pre-computed chapter summary plus the neighbouring source pages, so there
+  # is no sequential running-summary dependency to serialise on.
+  concurrency: 6
 
 output:
-  format: "marathi_only"          # marathi_only | bilingual | both
-  font: "Nirmala UI"
+  # page_faithful: identical page geometry; overflow spills to an inserted
+  # continuation page. Type size is never reduced.
+  page_model: "page_faithful"
+  font_family: "Noto Serif Devanagari"
+  font_file: "NotoSerifDevanagari-Regular.ttf"
+  font_file_bold: "NotoSerifDevanagari-Bold.ttf"
 
 qa:
-  back_translation_sample_pct: 5
-  flag_confidence_threshold: 0.85
+  automated: true       # block integrity, number/date preservation, glossary compliance
+  vision: true          # render each page and have the model inspect the layout
+  vision_dpi: 150
+  max_revise_attempts: 2

@@ -1,0 +1,11 @@
+# Core pipeline. Pinned to what is installed and verified working in ./venv
+pymupdf==1.28.0          # PDF extract + render. MuPDF 1.29.0 -> HarfBuzz Devanagari shaping
+openai==2.48.0           # translation + review + vision QA
+python-dotenv==1.2.2     # reads OPENAI_API_KEY from .env
+PyYAML==6.0.3            # config.yaml
+requests==2.34.2         # one-time font download in Stage 0
+pillow==12.3.0           # image handling for the vision QA pass
+
+# Optional: fuzzy glossary matching over inflected Marathi forms.
+# Heavy (pulls torch). Only needed if config.glossary.fuzzy_match is true.
+#   pip install sentence-transformers==5.6.1

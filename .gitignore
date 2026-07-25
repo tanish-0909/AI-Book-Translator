@@ -14,11 +14,11 @@ __pycache__/
 
 # Output directories
 workdir/
-output/
 
-# Data files
-*.pdf
-data/
+
+# Downloaded fonts (fetched by `python run.py preflight`)
+assets/fonts/*.ttf
+
 
 # OS generated files
 .DS_Store
